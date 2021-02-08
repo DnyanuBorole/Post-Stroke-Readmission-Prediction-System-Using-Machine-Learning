@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="dialog">
+    <file>predict_back.jpg</file>
+    <file>dialog.jpg</file>
+    <file>dr.png</file>
+  </qresource>
+</RCC>
